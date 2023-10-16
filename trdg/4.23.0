@@ -1,0 +1,10 @@
+Collecting tqdm
+  Using cached tqdm-4.64.1-py2.py3-none-any.whl (78 kB)
+Collecting importlib-resources
+  Using cached importlib_resources-5.4.0-py3-none-any.whl (28 kB)
+Collecting colorama
+  Using cached colorama-0.4.5-py2.py3-none-any.whl (16 kB)
+Collecting zipp>=3.1.0
+  Using cached zipp-3.6.0-py3-none-any.whl (5.3 kB)
+Installing collected packages: zipp, importlib-resources, colorama, tqdm
+Successfully installed colorama-0.4.5 importlib-resources-5.4.0 tqdm-4.64.1 zipp-3.6.0
